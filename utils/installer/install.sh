@@ -172,7 +172,7 @@ else
 	# echo 'export PATH=$HOME/.config/nvcode/utils/bin:$PATH' >>~/.bashrc
 fi
 
-echo "I recommend you also install and activate a font from here: https://github.com/ryanoasis/nerd-fonts"
+# echo "I recommend you also install and activate a font from here: https://github.com/ryanoasis/nerd-fonts"
 
 # echo "I also recommend you add 'set preview_images_method ueberzug' to ~/.config/ranger/rc.conf"
 
